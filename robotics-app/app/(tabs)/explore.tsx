@@ -33,7 +33,6 @@ interface ClassSession {
   end_time: string;
   student_count: number;
   materials_used: string;
-  // Puedes agregar más campos si los necesitas
 }
 
 export default function ExploreScreen() {
